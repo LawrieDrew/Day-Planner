@@ -1,6 +1,6 @@
 //setting planner date to current 
-var todayDisplay = moment().format('dddd, MMMM Do YYYY');
-$('currentDay').text(todayDisplay)
+var todayDisplay = moment().format("dddd, MMMM Do YYYY");
+$("#currentDay").text(todayDisplay)
 
 //setting hour to current 
 var currentHour = moment().format('HH');
