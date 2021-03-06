@@ -47,3 +47,4 @@ $("#clearBtn").on("click", function(){
     $(".textarea").val("");
     localStorage.clear();
   });
+
