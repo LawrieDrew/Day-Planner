@@ -70,9 +70,5 @@ textArea.val(valueToShow);
     });
 }
 
-//clear and reset
-//$("#clearBtn").on("click", function(){
-  //  $(".textarea").val("");
- //   localStorage.clear();
- // });
+
 
