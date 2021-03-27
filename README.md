@@ -14,7 +14,7 @@ Using pastels, we make it easy on the eyes!
 
 Here is the deployed website URL:
 
-![Github URL](https://github.com/LawrieDrew/Day-Planner.git)
+[Github URL](https://lawriedrew.github.io/Day-Planner/)
 
 Copyright (c) [2021] [Columbia School of Engineering]
 
