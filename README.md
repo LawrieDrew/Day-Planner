@@ -10,11 +10,11 @@ Using pastels, we make it easy on the eyes!
 
 
 
-![Day Planner](images/Deployed_App.jpg)
+![screenshot](Images/DeployedApp.jpg)
 
 Here is the deployed website URL:
 
-![Github URL](https://github.com/LawrieDrew/Day-Planner.git)
+[Github URL](https://lawriedrew.github.io/Day-Planner/)
 
 Copyright (c) [2021] [Columbia School of Engineering]
 
